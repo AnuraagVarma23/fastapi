@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+google-cloud-vision 
+pdf2image 
+poppler-utils
